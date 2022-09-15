@@ -1,2 +1,2 @@
 # githubTest  
-{"name":"uriel dahan",}
+{"author":"uriel dahan",}
